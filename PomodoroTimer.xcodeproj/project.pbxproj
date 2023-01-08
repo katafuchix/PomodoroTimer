@@ -11,6 +11,7 @@
 		31BC862C296ACFD200F948B6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31BC862B296ACFD200F948B6 /* ContentView.swift */; };
 		31BC862E296ACFD300F948B6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 31BC862D296ACFD300F948B6 /* Assets.xcassets */; };
 		31BC8631296ACFD300F948B6 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 31BC8630296ACFD300F948B6 /* Preview Assets.xcassets */; };
+		31BC8638296AD01E00F948B6 /* PomodoroViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31BC8637296AD01E00F948B6 /* PomodoroViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		31BC862B296ACFD200F948B6 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		31BC862D296ACFD300F948B6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		31BC8630296ACFD300F948B6 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		31BC8637296AD01E00F948B6 /* PomodoroViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PomodoroViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				31BC8629296ACFD200F948B6 /* PomodoroTimerApp.swift */,
 				31BC862B296ACFD200F948B6 /* ContentView.swift */,
+				31BC8637296AD01E00F948B6 /* PomodoroViewModel.swift */,
 				31BC862D296ACFD300F948B6 /* Assets.xcassets */,
 				31BC862F296ACFD300F948B6 /* Preview Content */,
 			);
@@ -139,6 +142,7 @@
 			files = (
 				31BC862C296ACFD200F948B6 /* ContentView.swift in Sources */,
 				31BC862A296ACFD200F948B6 /* PomodoroTimerApp.swift in Sources */,
+				31BC8638296AD01E00F948B6 /* PomodoroViewModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
